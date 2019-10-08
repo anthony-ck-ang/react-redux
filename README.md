@@ -2,9 +2,9 @@
 
 Terminal -> cd <project dir/proj> -> create-react-app <proj-name>
 
-Start app: npm start
-Stop app: Ctrl + c
-localhost:3000
+- Start app: npm start
+- Stop app: Ctrl + c
+- localhost:3000
 
 semantic ui cdn:
 - https://semantic-ui.com/
