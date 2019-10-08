@@ -7,16 +7,14 @@ Stop app: Ctrl + c
 localhost:3000
 
 semantic ui cdn:
+- https://semantic-ui.com/
+- https://cdnjs.com/libraries/semantic-ui
 
-https://semantic-ui.com/
+Add in head tag:
+ - https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css
 
-https://cdnjs.com/libraries/semantic-ui
-
-add in head tag:
-
-https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css
-
-https://github.com/marak/Faker.js/ npm install --save faker
+npm install --save faker
+- https://github.com/marak/Faker.js/ 
 
 -----------
 
